@@ -1,0 +1,7 @@
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\bin\Debug\Responsi_2323.exe.config
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\bin\Debug\Responsi_2323.exe
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\bin\Debug\Responsi_2323.pdb
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\obj\Debug\Responsi_2323.csprojAssemblyReference.cache
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\obj\Debug\Responsi_2323.csproj.CoreCompileInputs.cache
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\obj\Debug\Responsi_2323.exe
+E:\KULIAH\Pemrograman\Responsi_18.11.2323\Responsi_2323\Responsi_2323\obj\Debug\Responsi_2323.pdb
